@@ -32,7 +32,7 @@
 
 ## 🌐 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dnelfhmi)
+- 💼 [LinkedIn](https://www.linkedin.com/dnelfhmi)
 - 🗂️ [My Pinned Repositories](https://github.com/dnelfhmi?tab=repositories)
 - ✉️ [Email](mailto:dnelfhmi@gmail.com)
 
