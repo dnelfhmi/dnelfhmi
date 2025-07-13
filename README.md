@@ -8,7 +8,7 @@
 
 - I’m passionate about building robust, scalable AI & ML systems.
 - Familiar with a wide range of AI/ML tools, frameworks, and cloud services.
-- Currently exploring **agentic AI workflows** — combining LLMs and automation with tools like **n8n**.
+- Currently exploring **agentic AI workflows** — combining LLMs and automation with tools like **n8n** and **CrewAI**.
 - I have a strong interest in **cybersecurity** and its intersection with AI.
 
 ---
