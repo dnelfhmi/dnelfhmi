@@ -17,6 +17,7 @@
 
 - 🤖 Personal AI Assistant: Professional chatbot representing you online.
 - 🔍 LLM Agent for Customer Support: Experimenting with agentic flows.
+- 🤖 Multi-Agent Sales Automation: AI-powered email generation with agent orchestration.
 - 🏗️ Real-Time Whiteboard: Java, RMI, multi-threaded architecture.
 - 🚦 E-Scooter Traffic Simulation: Agent-based models for urban mobility.
 - 📊 Preparing for **AWS Certified Machine Learning Engineer** certification.
