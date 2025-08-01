@@ -15,8 +15,9 @@
 
 ## 🧩 What I’m Working On
 
-- 🏗️ Real-Time Whiteboard: Java, RMI, multi-threaded architecture.
+- 🤖 Personal AI Assistant: Professional chatbot representing you online.
 - 🔍 LLM Agent for Customer Support: Experimenting with agentic flows.
+- 🏗️ Real-Time Whiteboard: Java, RMI, multi-threaded architecture.
 - 🚦 E-Scooter Traffic Simulation: Agent-based models for urban mobility.
 - 📊 Preparing for **AWS Certified Machine Learning Engineer** certification.
 
